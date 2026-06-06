@@ -1,0 +1,2 @@
+https://code.visualstudio.com/docs/python/editing#_importresolvefailure
+    This was used to fix "import cv2 as cv". I had to install the package based on the syntax in this webpage.
